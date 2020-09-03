@@ -3,4 +3,4 @@ The map data is obtained by inputting the city name in the Geocoding API which t
 These coordinates are then put into the google maps API in order to generate a map of the given city.
 The OpenWeatherMap API is used in order to find real time weather information for the given city searched by the user.
 The Yelp API is used to display the highest rated restaurants in the given city to the user.
-All of the information from the APIs is taken in the JSON file format using Javascript methods which is then presented with the HTML components, which are styled with CSS.
+All of the information from the APIs is retrieved in the JSON file format using Javascript methods, which is then presented with the HTML components, styled with CSS.
