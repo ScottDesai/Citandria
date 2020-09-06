@@ -1,4 +1,5 @@
-Citandria was created by Scott Desai and functions as a website which displays a map, real time weather information and restaurant data for any city the user searches.
+Citandria was created by Scott Desai and functions as a website which displays a map, real time weather information and restaurant data for any city the user searches. 
+Citandria's website url is https://citandria.com/.
 The map data is obtained by inputting the city name in the Geocoding API which then turns the given city name into latitude and longitude coordinates.
 These coordinates are then put into the google maps API in order to generate a map of the given city.
 The OpenWeatherMap API is used in order to find real time weather information for the given city searched by the user.
